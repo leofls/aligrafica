@@ -1,0 +1,10 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+django-colorfield==0.7.2
+djangorestframework==3.13.1
+Pillow==9.2.0
+psycopg2 @ file:///home/builder/ci_310/psycopg2_1640792656405/work
+pytz @ file:///opt/conda/conda-bld/pytz_1654762638606/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
